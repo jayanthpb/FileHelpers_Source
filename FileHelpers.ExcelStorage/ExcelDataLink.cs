@@ -79,7 +79,7 @@ namespace FileHelpers.DataLink
 		}
 
 		private object[] mLastInsertedRecords;
-
+        //Added a comment: Jayanth
 		/// <summary>
 		/// An array of the last records inserted in the data source that comes from a file.
 		/// </summary>
